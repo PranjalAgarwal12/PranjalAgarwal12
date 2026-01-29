@@ -1,29 +1,43 @@
-# 👋 Hi there, I'm Pranjal Agarwal
-
 <p align="center">
-  <b>Full Stack (MERN) Developer | Backend Focused</b>
+  <img
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=30&
+    duration=2500&
+    pause=800&
+    color=000000&
+    center=true&
+    vCenter=true&
+    width=700&
+    lines=👋+Hi+there,+I'm+Pranjal+Agarwal"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <a href="mailto:23053229@kiit.ac.in">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/PranjalAgarwal12">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?
+    font=Fira+Code&
+    size=24&
+    duration=2500&
+    pause=1200&
+    color=00C853&
+    center=true&
+    vCenter=true&
+    width=700&
+    lines=Full+Stack+(MERN)+Developer"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-## 👋 Quick Intro
-🎓 B.Tech CSE student  
-🛠️ Building Java & MERN stack projects  
-🌱 Learning backend development step by step  
-🤖 Learning basics of AI & ML  
-📫 Connect with me: 23053229@kiit.ac.in  
+## 👨‍💻 About Me
+🎓 B.Tech Computer Science Engineering student  
+🛠️ Building **Java & MERN stack** projects  
+🌱 Currently focusing on **backend development**  
+🤖 Learning the basics of **AI & Machine Learning**  
+📫 Connect with me: **23053229@kiit.ac.in**
 
 ---
 
@@ -38,5 +52,7 @@ React | Tailwind CSS
 
 ---
 
-🌐 **Let’s Connect**  
-LinkedIn • GitHub
+## 🌐 Connect with Me
+📧 Email: 23053229@kiit.ac.in  
+🔗 LinkedIn  
+💻 GitHub
