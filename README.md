@@ -1,16 +1,21 @@
-## Hi there 👋
+👨‍💻 Pranjal Agarwal | CSE Undergraduate  
+🚀 Exploring Backend & MERN Stack through hands-on projects  
 
-<!--
-**PranjalAgarwal12/PranjalAgarwal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Quick Intro  
+🎓 B.Tech CSE student  
+🛠️ Building Java & MERN stack projects  
+🌱 Learning backend development step by step  
+🤖 Learning basics of AI & ML  
+📫 Connect with me: 23053229@kiit.ac.in  
 
-Here are some ideas to get you started:
+🧠 Core Skills  
+HTML | CSS | JavaScript | Java  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚙️ Backend & Databases  
+Node.js | Express.js | MongoDB  
+
+🎨 Frontend Tools  
+React | Tailwind CSS  
+
+🌐 Let’s Connect  
+LinkedIn | GitHub
