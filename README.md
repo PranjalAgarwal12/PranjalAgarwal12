@@ -1,33 +1,9 @@
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=30&
-    duration=2500&
-    pause=800&
-    color=000000&
-    center=true&
-    vCenter=true&
-    width=700&
-    lines=👋+Hi+there,+I'm+Pranjal+Agarwal"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Hi+there,Pranjal+Agarwal" alt="Typing SVG"/>
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=24&
-    duration=2500&
-    pause=1200&
-    color=00C853&
-    center=true&
-    vCenter=true&
-    width=700&
-    lines=Full+Stack+(MERN)+Developer"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2500&pause=1200&color=00C853&center=true&vCenter=true&width=700&lines=Full+Stack+(MERN)+Developer" alt="Typing SVG"/>
 </p>
 
 ---
