@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=PranjalAgarwal&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+<p align="center">
   <img 
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=999999&color=00E5FF&center=true&vCenter=true&width=800&lines=Hi+there,+Pranjal+Agarwal" 
     alt="Typing SVG"
@@ -41,4 +45,4 @@ React | Tailwind CSS
 ## 🌐 Connect with Me
 📧 Email: **23053229@kiit.ac.in**  
 🔗 LinkedIn  
-💻 GitHub  
+💻 GitHub
